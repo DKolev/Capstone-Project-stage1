@@ -1,7 +1,7 @@
 # Capstone-Project
 This is the repo for my Capstone Project part of the Udacity Android Developer Nanodegree
 
-** IMPORTANT!!! *** THE APP IS STILL IN DEVELOPMENT
+**!!! IMPORTANT !!! THE APP IS STILL IN DEVELOPMENT**
 
 Here you can see some screenshots of the work I've done so far and what the final app will be about. The actual code is in a PRIVATE repo for now.
 
@@ -9,7 +9,7 @@ The main idea is that our best friends (talking about our dogs, of course) need 
  
 My app aims to change this by offering the option for the user to schedule a walk (very short, short, medium or long) and invite other users to walk their dogs with him in a preselected area. If the walk is set to public, all users will be able to see it and request to join if they want. All walks can be sorted by city, dog’s breed, duration or neighbourhood.
 
-App Features: 
+**App Features:**
 * Creating and displaying a list of events (dog walks)
 * Users can add one or more dogs to their pet list (and manage their profile)
 * Users can choose to set the walk as private and invite only specific people to it
@@ -18,7 +18,7 @@ App Features:
 * Post about lost/found dogs
 * Cloud sync across devices
 
-Used technologies:
+**Used technologies:**
 * Google Account Login
 * Firebase (Authentication, Realtime Database and Storage for now)
 * Firebase UI
